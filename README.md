@@ -10,7 +10,7 @@ Open Vibe Build Kit gives beginning and intermediate developers practical, inspe
 - **Local-first:** examples run on a developer's machine. Deployment is optional, never triggered automatically.
 - **Independent:** not a customer-facing portal, product landing page, or operational backend for a commercial company.
 
-> **Status:** [Public GitHub repository](https://github.com/mooreliving777/open-vibe-build-kit) is live and GitHub Actions tests have passed. A Netlify deployment and Open Source plan approval are separate steps and are **not yet confirmed**. See [publishing checklist](docs/publishing.md).
+> **Status (November 18, 2026):** [Public GitHub repository](https://github.com/mooreliving777/open-vibe-build-kit) and GitHub Actions tests are confirmed. The Netlify dashboard reports this project **published at 8:55 AM** at [vcbuildkit.netlify.app](https://vcbuildkit.netlify.app/). Public HTTP response and visual behavior have **not been independently verified**. A separate dashboard view also displayed `leonardemoore.com` with this project's name; check domain associations before using a personal/commercial domain. **Netlify Open Source plan eligibility and approval remain pending.** See [publishing checklist](docs/publishing.md).
 
 ## What's included
 
