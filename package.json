@@ -1,0 +1,15 @@
+{
+  "name": "open-vibe-build-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Free noncommercial open-source build and deployment learning toolkit",
+  "type": "module",
+  "bin": {"ovbk": "./bin/ovbk.mjs"},
+  "scripts": {
+    "test": "node --test",
+    "audit": "node bin/ovbk.mjs audit .",
+    "site:serve": "python -m http.server 8080 --directory site"
+  },
+  "engines": {"node": ">=20"},
+  "license": "MIT"
+}
