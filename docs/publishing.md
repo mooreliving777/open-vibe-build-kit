@@ -19,9 +19,11 @@ This project has a public GitHub repository at https://github.com/mooreliving777
 - [ ] Visually verify **This site is powered by Netlify** appears on the deployed homepage (the source code includes the correct link).
 - [x] **Custom domain removal reported by maintainer (November 18, 2026):** `leonardemoore.com` has been detached from the toolkit; https://vcbuildkit.netlify.app/ is its intended public address. This is user-confirmed, not independently verified in Netlify Domain management. No domain registration or DNS deletion is requested.
 - [ ] Reconfirm eligibility under the latest [Netlify Open Source policy](https://www.netlify.com/legal/open-source-policy/) and that the project is not used for paid client hosting, business lead generation, or commercial support.
-- [ ] Only then fill out the [official application form](https://opensource-form.netlify.com/) for Netlify review; do not claim approval until Netlify confirms it.
+- [x] **Application submitted November 18, 2026:** maintainer provided screenshot of the official [Open Source form](https://opensource-form.netlify.com/) showing “Hooray! Your form was submitted!” with the MIT license and the toolkit site URL. This confirms receipt of the form submission, **not** approval. The submitted optional-details field appeared empty. Account email is deliberately not recorded in this public repository.
+- [ ] Await Netlify’s eligibility decision; do not represent the Open Source plan or 10,000 credits as active unless Netlify explicitly approves the application.
+- [ ] If Netlify asks for more information, verify the site/community, noncommercial nature, and the required attribution.
 
-## Application fields (fill from verified account information)
+## Application fields (record for reference; form already submitted)
 
 | Field | What to enter |
 | --- | --- |
@@ -32,8 +34,8 @@ This project has a public GitHub repository at https://github.com/mooreliving777
 | Project link | Public repository and actual deployed community website |
 | Additional details | Accurate description of the toolkit's educational, noncommercial purpose and open collaboration; no sales or hosting services |
 
-## Suggested additional-details text
+## Optional project description for a Netlify follow-up
 
 > Open Vibe Build Kit is a freely available, MIT-licensed, noncommercial educational open-source toolkit. It provides community documentation, an offline starter CLI, sample static/React/Node projects, and security-focused learning examples. Participation is open through GitHub issues and pull requests. The requested site hosts documentation for this project only, with a public Code of Conduct and Netlify attribution. This project does not provide paid services, host client sites, sell subscriptions, or function as a customer acquisition funnel.
 
-**Important:** Submit the text only if each statement remains true after launch. Netlify reviews eligibility. Applications are not automatically accepted.
+**Important:** The form was already submitted; the optional-details box appeared blank in the submission screenshot. The description above is for an accurate response if Netlify requests additional information, not evidence that it was sent with the original form. Netlify reviews eligibility independently.
