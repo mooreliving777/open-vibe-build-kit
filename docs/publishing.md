@@ -17,7 +17,7 @@ This project has a public GitHub repository at https://github.com/mooreliving777
 - [x] Record the reported deployment URL: https://vcbuildkit.netlify.app/ (from the Netlify dashboard; not independently fetched).
 - [ ] Independently open the website on desktop/mobile, test navigation, and check the Code of Conduct link.
 - [ ] Visually verify **This site is powered by Netlify** appears on the deployed homepage (the source code includes the correct link).
-- [ ] Resolve the custom-domain question: another dashboard screenshot displayed `http://leonardemoore.com` under `vcbuildkit`. If attached accidentally, detach that domain from this toolkit without changing DNS for other sites. Keep this noncommercial project on its own `netlify.app` domain.
+- [ ] **Domain detachment pending in Netlify:** the maintainer selected https://vcbuildkit.netlify.app/ as the only intended production domain. Another dashboard screenshot displayed `http://leonardemoore.com` under `vcbuildkit`. If `leonardemoore.com` is attached under this project’s **Domain management → Production domains**, remove **only the custom-domain assignment** (including `www` if assigned to this toolkit); do not delete the domain registration, Netlify DNS zone, or shared DNS records. Confirm the default Netlify URL remains active. This removal cannot be verified from GitHub.
 - [ ] Reconfirm eligibility under the latest [Netlify Open Source policy](https://www.netlify.com/legal/open-source-policy/) and that the project is not used for paid client hosting, business lead generation, or commercial support.
 - [ ] Only then fill out the [official application form](https://opensource-form.netlify.com/) for Netlify review; do not claim approval until Netlify confirms it.
 
