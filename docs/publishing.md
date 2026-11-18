@@ -12,13 +12,14 @@ This project has a public GitHub repository at https://github.com/mooreliving777
 
 ## Netlify
 
-- [ ] Start with the regular Free plan; no subscription upgrade or paid add-ons.
-- [ ] Import this repository to Netlify and publish static documentation from `site`.
-- [ ] Check the actual deployment for working navigation and the Code of Conduct.
-- [ ] Verify visible **This site is powered by Netlify** attribution on the homepage.
-- [ ] Collect the real deployed community website URL.
-- [ ] Verify eligibility under the latest [Netlify Open Source policy](https://www.netlify.com/legal/open-source-policy/).
-- [ ] Only then fill out the [official application form](https://opensource-form.netlify.com/).
+- [ ] Confirm the Netlify account is on a $0 Free plan with no paid add-ons or overage permissions.
+- [x] Import the GitHub repository: Netlify dashboard screenshot reports the Git-based `vcbuildkit` project **Published at 8:55 AM on November 18, 2026**, using the `site` publish directory.
+- [x] Record the reported deployment URL: https://vcbuildkit.netlify.app/ (from the Netlify dashboard; not independently fetched).
+- [ ] Independently open the website on desktop/mobile, test navigation, and check the Code of Conduct link.
+- [ ] Visually verify **This site is powered by Netlify** appears on the deployed homepage (the source code includes the correct link).
+- [ ] Resolve the custom-domain question: another dashboard screenshot displayed `http://leonardemoore.com` under `vcbuildkit`. If attached accidentally, detach that domain from this toolkit without changing DNS for other sites. Keep this noncommercial project on its own `netlify.app` domain.
+- [ ] Reconfirm eligibility under the latest [Netlify Open Source policy](https://www.netlify.com/legal/open-source-policy/) and that the project is not used for paid client hosting, business lead generation, or commercial support.
+- [ ] Only then fill out the [official application form](https://opensource-form.netlify.com/) for Netlify review; do not claim approval until Netlify confirms it.
 
 ## Application fields (fill from verified account information)
 
