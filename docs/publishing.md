@@ -6,8 +6,8 @@ This project has a public GitHub repository at https://github.com/mooreliving777
 
 - [x] Create the public repository `open-vibe-build-kit` under a personal GitHub account.
 - [x] Add the license, Code of Conduct, contribution guidance, and initial community documentation.
-- [ ] Confirm all project files and tests are present after the latest commit.
-- [ ] Run GitHub Actions CI and verify tests pass.
+- [x] Confirm all project files and tests are present after the latest commit.
+- [x] Run GitHub Actions CI and verify tests pass.
 - [ ] Confirm this is actually maintained for open collaboration, not as a lead-generation or paid-service channel.
 
 ## Netlify

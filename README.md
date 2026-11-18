@@ -10,7 +10,7 @@ Open Vibe Build Kit gives beginning and intermediate developers practical, inspe
 - **Local-first:** examples run on a developer's machine. Deployment is optional, never triggered automatically.
 - **Independent:** not a customer-facing portal, product landing page, or operational backend for a commercial company.
 
-> **Status:** Initial community toolkit. The source code works locally; a new remote GitHub repository, a deployed Netlify site, and an Open Source plan approval are **not** implied by this source archive. See [project setup](docs/publishing.md).
+> **Status:** [Public GitHub repository](https://github.com/mooreliving777/open-vibe-build-kit) is live and GitHub Actions tests have passed. A Netlify deployment and Open Source plan approval are separate steps and are **not yet confirmed**. See [publishing checklist](docs/publishing.md).
 
 ## What's included
 

@@ -7,4 +7,4 @@
 - Added basic project audit, Node tests, documentation and Supabase RLS sample.
 - Added Netlify-ready static documentation website and an application checklist.
 
-Remote repository creation, public deployment, and Netlify plan approval must be independently verified.
+Public GitHub repository created and tested. Netlify deployment and Open Source plan approval remain pending.
